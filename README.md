@@ -1,6 +1,6 @@
+![](https://github.com/mobier/WrenchMask_ESP8266/blob/master/image/664036ad-3711-4d1d-bed9-47918c58ea93.png?raw=true)
 #[制作一个跟Wrench一样的面具](https://nu11.me/?p=554)
 
-![](https://github.com/mobier/WrenchMask_ESP8266/blob/master/image/664036ad-3711-4d1d-bed9-47918c58ea93.png?raw=true)
 通过在ESP8266 搭建一个Web Server 传递字符然后在Max7219显示（待开发），然后可以选择要显示的表情，以及灯的亮度。
 ## 硬件
 * Max7219 *2
