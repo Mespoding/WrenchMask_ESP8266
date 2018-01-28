@@ -18,6 +18,7 @@ DisplayNColum() //Max7219 显示函数
 ```
 ## 特效
 模拟眨眼特效，随机产生表情，以及不闪。
+## [演示视频](https://youtu.be/OBhEs4i3opk)
 ## 成品
 ![](https://github.com/mobier/WrenchMask_ESP8266/blob/master/image/88af86df-6fb6-4660-94ee-2d34a001f0b9.png?raw=true)
 ![](https://github.com/mobier/WrenchMask_ESP8266/blob/master/image/1.png?raw=true)
